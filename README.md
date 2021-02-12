@@ -3,7 +3,7 @@
 <h3 align="center">I am a Fullstack Javascript Developer</h3>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram)](https://instagram.com/mohidkazi_)
-[![Linkedin](https://img.shields.io/badge/-Stackoverflow-black?style=flat&logo=Stackoverflow)](https://linkedin.com/in/mohid-kazi-193b4713a)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin)](https://linkedin.com/in/mohid-kazi-193b4713a)
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-black?style=flat&logo=Stackoverflow)](https://stackoverflow.com/users/10357750)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mohidkazi1?style=social)](https://twitter.com/mohidkazi1)
 ![](https://komarev.com/ghpvc/?username=mohidkazi&label=Profile%20views&color=0e75b6&style=flat)
