@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with [Medium Backend Clone](https://github.com/mohidkazi/deno-oak)
 
-- 👨‍💻 All of my projects are available at [https://mohidkazi.github.io](https://mohidkazi.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/mohidkazi](https://github.com/mohidkazi)
 
 - 📝 I regulary write articles on [https://github.com/mohidkazi/blog](https://github.com/mohidkazi/blog)
 
