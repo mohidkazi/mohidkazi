@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **private project**
 
-- 🌱 I’m currently learning **AdonisJS**
+- 🌱 I’m currently learning **Guitar**
 
 - 👯 I’m looking to collaborate on [Medium Backend Clone](https://github.com/mohidkazi/deno-oak)
 
@@ -27,6 +27,8 @@
 - 📫 How to reach me **mohidkazix@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/mohidkazi](https://github.com/mohidkazi)
+
+- 🙇 Procrastinating on **Flutter**, **deno**, **rust** and **neovim**
 
 
 <h3 align="left">Languages and Tools:</h3>
