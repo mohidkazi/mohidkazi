@@ -8,7 +8,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mohidkazi1?style=social)](https://twitter.com/mohidkazi1)
 ![](https://komarev.com/ghpvc/?username=mohidkazi&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="center"> <img src="https://octodex.github.com/images/nyantocat.gif" /> </p>
+<p align="center"> <img src="/The%20Little%20Things%20-%20Working.png" /> </p>
 
 - 🔭 I’m currently working on **private project**
 
@@ -49,7 +49,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <br>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
