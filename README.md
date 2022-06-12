@@ -1,4 +1,4 @@
-<h1 align="center">Konnichiwa <img src="wave.gif" width="30px"> , I'm Mohid</h1>
+<h1 align="center">Konnichiwa <img src="wave.gif" width="40" height="auto"> , I'm Mohid</h1>
 
 <h3 align="center">I am a Fullstack Javascript Developer</h3>
 
