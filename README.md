@@ -8,7 +8,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mohidkazi1?style=social)](https://twitter.com/mohidkazi1)
 ![](https://komarev.com/ghpvc/?username=mohidkazi&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="center"> <img src="/The%20Little%20Things%20-%20Working.png" /> </p>
+<p align="center"> <img src="/me-working.png" width="50%" /> </p>
 
 - 🔭 I’m currently working on **private project**
 
