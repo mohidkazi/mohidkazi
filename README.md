@@ -1,14 +1,11 @@
-# Readme.md
-
-![avatar](/public/avatar.png)
-
-### Author - Mohid kazi
+<p><img src="/public/avatar.png" height="120" weight="120"></p>
 
 Published on [github](https://github.com/mohidkazi) [readme](https://readme.mohidkazi.com/) · 3 min read · Nov 21, 2024
 
+
 ![The Studio, illustration for The White Shell (Shiragai)](/public/white-shell.jpg)
 
-The Studio, illustration for The White Shell (Shiragai), from the series “A Matching Game with Genroku-period Poem Shells (Genroku kasen kai awase)”
+> The Studio, illustration for The White Shell (Shiragai), from the series “A Matching Game with Genroku-period Poem Shells (Genroku kasen kai awase)”
 
 konnichiwa 👋🏻 all, Heading into 2025, it suddenly hit me that my readme page is not upto date. It sent me into an existential crisis, but hey its like peanut butter and jelly that i eat everyday for breakfast. Putting my procrastination on hold, low and behold i have updated by **readme** page
 
@@ -38,39 +35,14 @@ ps - notion free does provide with 1 free site publishing option.
 
 ---
 
-![https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg](https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg)
+| ![https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg](https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg) | ![https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg) | ![https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg) | ![https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg) | ![https://www.vectorlogo.zone/logos/redis/redis-official.svg](https://www.vectorlogo.zone/logos/redis/redis-official.svg) |
+| -- | -- | -- | -- | -- |
+| ![https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg](https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg) | ![https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg](https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg) | ![https://www.vectorlogo.zone/logos/mysql/mysql-official.svg](https://www.vectorlogo.zone/logos/mysql/mysql-official.svg) | ![https://www.vectorlogo.zone/logos/linux/linux-ar21.svg](https://www.vectorlogo.zone/logos/linux/linux-ar21.svg) | ![https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg](https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg) |
+| ![https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg) | ![https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg](https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg) | ![https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg) | ![https://www.vectorlogo.zone/logos/docker/docker-ar21.svg](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg) |  ![https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg) |
 
-![https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)
 
-![https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
-
-![https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg)
-
-![https://www.vectorlogo.zone/logos/redis/redis-official.svg](https://www.vectorlogo.zone/logos/redis/redis-official.svg)
-
-![https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg](https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg)
-
-![https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg](https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg)
-
-![https://www.vectorlogo.zone/logos/mysql/mysql-official.svg](https://www.vectorlogo.zone/logos/mysql/mysql-official.svg)
-
-![https://www.vectorlogo.zone/logos/linux/linux-ar21.svg](https://www.vectorlogo.zone/logos/linux/linux-ar21.svg)
-
-![https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg](https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg)
-
-![https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
-
-![https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg](https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg)
-
-![https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg)
-
-![https://www.vectorlogo.zone/logos/docker/docker-ar21.svg](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)
-
-![https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
-
-[https://github-readme-stats.vercel.app/api?username=mohidkazi&&hide_border=true&bg_color=00000000&rank_icon=github](https://github-readme-stats.vercel.app/api?username=mohidkazi&&hide_border=true&bg_color=00000000&rank_icon=github)
-
-[https://github-readme-stats.vercel.app/api/top-langs?username=mohidkazi&layout=compact&hide_border=true&bg_color=00000000](https://github-readme-stats.vercel.app/api/top-langs?username=mohidkazi&layout=compact&hide_border=true&bg_color=00000000)
+| ![https://github-readme-stats.vercel.app/api?username=mohidkazi&&hide_border=true&bg_color=00000000&rank_icon=github](https://github-readme-stats.vercel.app/api?username=mohidkazi&&hide_border=true&bg_color=00000000&rank_icon=github) |  ![https://github-readme-stats.vercel.app/api/top-langs?username=mohidkazi&layout=compact&hide_border=true&bg_color=00000000](https://github-readme-stats.vercel.app/api/top-langs?username=mohidkazi&layout=compact&hide_border=true&bg_color=00000000) |
+| -- | -- |
 
 ---
 
