@@ -1,64 +1,77 @@
-<h1 align="center">Konnichiwa <img src="wave.gif" width="40" height="auto"> , I'm Mohid</h1>
+# Readme.md
 
-<h3 align="center">I am a Fullstack Javascript Developer</h3>
+![avatar](/public/avatar.png)
 
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram)](https://instagram.com/mohidkazi_)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin)](https://linkedin.com/in/mohid-kazi-193b4713a)
-[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-black?style=flat&logo=Stackoverflow)](https://stackoverflow.com/users/10357750)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mohidkazi1?style=social)](https://twitter.com/mohidkazi1)
-![](https://komarev.com/ghpvc/?username=mohidkazi&label=Profile%20views&color=0e75b6&style=flat)
+### Author - Mohid kazi
 
-<p align="center"> <img src="/team-work.gif" width="50%" /> </p>
+Published on [github](https://github.com/mohidkazi) [readme](https://readme.mohidkazi.com/) · 3 min read · Nov 21, 2024
 
-- 🔭 I’m currently working on **private project**
+![The Studio, illustration for The White Shell (Shiragai)](/public/white-shell.jpg)
 
-- 🌱 I’m currently learning **Guitar**
+The Studio, illustration for The White Shell (Shiragai), from the series “A Matching Game with Genroku-period Poem Shells (Genroku kasen kai awase)”
 
-- 👯 I’m looking to collaborate on [Medium Backend Clone](https://github.com/mohidkazi/deno-oak)
+konnichiwa 👋🏻 all, Heading into 2025, it suddenly hit me that my readme page is not upto date. It sent me into an existential crisis, but hey its like peanut butter and jelly that i eat everyday for breakfast. Putting my procrastination on hold, low and behold i have updated by **readme** page
 
-- 🤝 I’m looking for help with [Medium Backend Clone](https://github.com/mohidkazi/deno-oak)
+Okok, so there hasn’t been much changes, my readme is same as it was in 2021, which in turn is same as it was in 2019. so whats changed you ask, ahemmm… **Notion,** yes you heard that right, i am going all in on notion from creating my professional resume, cover letter to the latest readme.
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohidkazi](https://github.com/mohidkazi)
+I will be using this github [repo](https://github.com/mohidkazi/mohidkazi) for not only showing my github readme, but also creating a github page with custom domain sprinkled on top of it. note - if you are a paid notion user, you can publish your pages directly from within notion with custome domain on top.
 
-- 📝 I regulary write articles on [https://github.com/mohidkazi/blog](https://github.com/mohidkazi/blog)
+ps - notion free does provide with 1 free site publishing option.
 
-- 💬 Ask me about **anything**
+---
 
-- 📫 How to reach me **mohidkazix@gmail.com**
+👨🏻‍💻 Currently i am working on private project i.e [credilio](https://www.credilio.in/) and [novio](https://www.novio.in/) which are finTech product, used for recommending credit card/loan basis your personal info and bureau and also manage your SBM credilio card.
 
-- 📄 Know about my experiences [https://github.com/mohidkazi](https://github.com/mohidkazi)
+🙅🏻 You can check my experience 👉🏼 [experience.mohidkazi.com](http://experience.mohidkazi.com)
 
-- 🙇 Procrastinating on **Flutter**, **deno**, **rust** and **neovim**
+🙇🏻 I have been procrastinating on a lot of things which i wanted to try for a long time like learning guitar 🎸, go 👾, vim  🖥️, raspberry pi 🥧.
 
+😼 I have been trying out new things like learning DSA, experimenting with frontend frameworks like vue, react and exploring cloud providers like aws, render etc.
 
-<h3 align="left">Languages and Tools:</h3>
-<p>  
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<br>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<br>
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/lodash/lodash-ar21.svg"></code>
-</p>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohidkazi&show_icons=true&locale=en&layout=compact&title_color=c1c7cb&icon_color=cfd3d6&text_color=d8dde3&bg_color=263F3F" alt="mohidkazi" />
+✨ Something i have always wanted to try is designing but couldnt due to creative and artistic constraint.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohidkazi&show_icons=true&locale=en&title_color=eb8c34&icon_color=999999&text_color=999999&bg_color=000000" alt="mohidkazi" />
-</p>
+📜 You can find my resume 👉🏼 [mohidkazi.notion](https://www.notion.so/Mohid-Kazi-1178cf92a392805da241d319eb48fdd7?pvs=21)
 
+🌱 I am open to freelancing 💻 or collaborate on personal project
+
+📬 In case you want to react out to me or have any query, you can connect me 👉🏼 [email](mailto:mohidkazi.io@gmail.com)
+
+---
+
+![https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg](https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg)
+
+![https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)
+
+![https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
+
+![https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg)
+
+![https://www.vectorlogo.zone/logos/redis/redis-official.svg](https://www.vectorlogo.zone/logos/redis/redis-official.svg)
+
+![https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg](https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg)
+
+![https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg](https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg)
+
+![https://www.vectorlogo.zone/logos/mysql/mysql-official.svg](https://www.vectorlogo.zone/logos/mysql/mysql-official.svg)
+
+![https://www.vectorlogo.zone/logos/linux/linux-ar21.svg](https://www.vectorlogo.zone/logos/linux/linux-ar21.svg)
+
+![https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg](https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg)
+
+![https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
+
+![https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg](https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg)
+
+![https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg)
+
+![https://www.vectorlogo.zone/logos/docker/docker-ar21.svg](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)
+
+![https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
+
+[https://github-readme-stats.vercel.app/api?username=mohidkazi&&hide_border=true&bg_color=00000000&rank_icon=github](https://github-readme-stats.vercel.app/api?username=mohidkazi&&hide_border=true&bg_color=00000000&rank_icon=github)
+
+[https://github-readme-stats.vercel.app/api/top-langs?username=mohidkazi&layout=compact&hide_border=true&bg_color=00000000](https://github-readme-stats.vercel.app/api/top-langs?username=mohidkazi&layout=compact&hide_border=true&bg_color=00000000)
+
+---
+
+Farewell speech 🥹 - The main motive to create this readme was i wanted to do a little experiment. I wanted to create an aesthetic 💅🏻 minimalistic simple and clean web ui using notion inspired by medium website.
