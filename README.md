@@ -1,6 +1,4 @@
-<p><img src="/public/avatar.png" height="120" weight="120"></p>
-
-Published on [github](https://github.com/mohidkazi) [readme](https://readme.mohidkazi.com/) · 3 min read · Nov 21, 2024
+<img src="/public/avatar.png" height="120" weight="120">Published on [github](https://github.com/mohidkazi) [readme](https://readme.mohidkazi.com/) · 3 min read · Nov 21, 2024
 
 
 ![The Studio, illustration for The White Shell (Shiragai)](/public/white-shell.jpg)
