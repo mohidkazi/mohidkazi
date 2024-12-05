@@ -1,7 +1,13 @@
-<img src="/public/avatar.png" height="120" weight="120">Published on [github](https://github.com/mohidkazi) [readme](https://readme.mohidkazi.com/) · 3 min read · Nov 21, 2024
+<img src="/public/avatar.png" height="120" weight="120">
 
+> Published on [github](https://github.com/mohidkazi) [readme](https://readme.mohidkazi.com/) · 3 min read · Nov 21, 2024
 
-![The Studio, illustration for The White Shell (Shiragai)](/public/white-shell.jpg)
+<!---
+ ![The Studio, illustration for The White Shell (Shiragai)](/public/white-shell.jpg)
+ --->
+ <p align="center">
+  <img src="/public/white-shell.jpg" style="width: 55%;">
+ </p>
 
 > The Studio, illustration for The White Shell (Shiragai), from the series “A Matching Game with Genroku-period Poem Shells (Genroku kasen kai awase)”
 
